@@ -1,4 +1,5 @@
 # weibo_crawler_and_text_analysis  
+A practice on web crawler
 
 Overview: Weibo crawler by keywords input, get related comments content, make wordcloud &amp; sentiment analysis  
 ## content:  
